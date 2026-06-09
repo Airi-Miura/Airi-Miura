@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Airi Miura 👋
 
-<!--
-**Airi-Miura/Airi-Miura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information and Communication Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- University student researching thermal comfort estimation
+- Web application development
+- AI / Data Analysis
+- Cyber Security
+- Snowboard Coach
+
+## Skills
+
+### Programming
+
+- Python
+- JavaScript
+- TypeScript
+- HTML / CSS
+
+### Frameworks
+
+- React
+- Streamlit
+- Flutter
+- FastAPI
+
+### Tools
+
+- Docker
+- Git
+- GitHub
+- Linux
+
+## Projects
+
+### Digital Signage Web Application
+
+Internship project.
+
+- Docker environment construction
+- Web application development
+- Team development experience
+
+### Tonkatsu Restaurant Landing Page
+
+Client work.
+
+- Requirement hearing
+- LP design
+- Frontend implementation
+
+### Thermal Comfort Research App
+
+University research project.
+
+- Temperature prediction model
+- PMV calculation
+- Streamlit application
+
+## Interests
+
+- AI
+- Web Development
+- Cyber Security
+- Entrepreneurship
+
+## Contact
+
+- GitHub: https://github.com/Airi-Miura
+- LinkedIn: （https://www.linkedin.com/in/airi-miura-7a9201380/）
